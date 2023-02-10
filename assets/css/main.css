@@ -2630,6 +2630,11 @@ input, select, textarea {
 			#logo .image{
 				position:static;
 			}
+		/* Image */
+			#about .image{
+				padding: 0 2em 0 0;
+			}
+
 
 		/* Main */
 
@@ -2659,7 +2664,7 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
-		/* Image */
+		
 		}
 
 	}
