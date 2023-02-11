@@ -2632,7 +2632,8 @@ input, select, textarea {
 			}
 		/* Image */
 			#about .image{
-				padding: 0 2em 0 0;
+				position: static;
+				width: 80%;
 			}
 
 
